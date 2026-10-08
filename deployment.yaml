@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: placement-portal
-          image: archanajawahar14/college-placement-portal:latest
+          image: archanajawahar14/college-placement-portal:v2
           ports:
             - containerPort: 80
 
